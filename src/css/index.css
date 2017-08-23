@@ -1,0 +1,115 @@
+ul,li{padding: 0;margin: 0;list-style: none}
+.bg{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #023971;
+}
+.bg img{
+  width: 100%;
+}
+.thumbnail{
+  width: 2.734rem;
+  position: absolute;
+  left: .969rem;
+  top: .61rem;
+}
+.tag{
+  width: 4.719rem;
+  position: absolute;
+  right: .844rem;
+  top: 1.456rem;
+}
+.game{
+  width: 8.75rem;
+  position: absolute;
+  left: .625rem;
+  top: 4.451rem;
+}
+.game li
+{
+  position: relative;
+  overflow: hidden;
+}
+.lic1{
+  width: 4.375rem;
+  height: 4.375rem;
+  float: left;
+}
+.lic2
+{
+  width: 2.917rem;
+  height: 4.375rem;
+  float: left;
+}
+.lic3
+{
+  width: 2.917rem;
+  height: 2.917rem;
+  float: left;
+}
+.lic4
+{
+  width: 2.917rem;
+  height: 2.1875rem;
+  float: left;
+}
+.lic5
+{
+  width: 2.1875rem;
+  height: 2.1875rem;
+  float: left;
+}
+.mask
+{
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,.6);
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.txt
+{
+  width: 7.8rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 2.22rem;
+  font-size: .5rem;
+  line-height: 1.8
+}
+.next
+{
+  width: 4.875rem;
+  position: absolute;
+  right: .5rem;
+  top: 12.0625rem;
+}
+.press1
+{
+  width: 6.422rem;
+  position: absolute;
+  left: 1.8125rem;
+  top: 12.234rem;
+}
+.press2
+{
+  width: 6.422rem;
+  position: absolute;
+  left: 1.8125rem;
+  top: 13.609rem;
+}
+.back
+{
+  width: 2.547rem;
+  position: absolute;
+  left: .75rem;
+  top: 11.594rem;
+}
+.press
+{
+  width: 4.984rem;
+  position: absolute;
+  left: 2.625rem;
+  top: 6.328rem;
+}
