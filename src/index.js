@@ -4,7 +4,6 @@ import {createStore} from 'redux'
 import {Provider} from 'react-redux'
 import 'normalize.css';
 import App from './App';
-import registerServiceWorker from './registerServiceWorker';
 
 import gameReducer from './reducers/GameReducer'
 
@@ -16,4 +15,3 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 );
-registerServiceWorker();
